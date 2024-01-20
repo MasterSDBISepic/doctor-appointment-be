@@ -1,0 +1,5 @@
+
+
+- mai adaug un tabel cu permisiuni
+    pk email admin
+    fiecare pagina are in bd o permisiune, verifici permisiunea pe fiecare pagina
